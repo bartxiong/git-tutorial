@@ -4,3 +4,4 @@
     - fix-B
     - faeture-C
     - feature-D
+    - -bug fix
